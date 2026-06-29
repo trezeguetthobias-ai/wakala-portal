@@ -1,0 +1,1 @@
+ALTER TYPE public.app_type ADD VALUE IF NOT EXISTS 'voda';
