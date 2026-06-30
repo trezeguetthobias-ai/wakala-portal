@@ -1,0 +1,1 @@
+import{j as a}from"./index-FkIpNxUv.js";import{A as i}from"./ApplicationForm-DFJDKhOB.js";const p=()=>a.jsx(i,{type:"wakala",title:"Sajili Wakala HaloPesa",subtitle:"Jaza taarifa zako sahihi na pakia nyaraka zinazohitajika"});export{p as component};
