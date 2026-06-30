@@ -1,0 +1,1 @@
+import{r as o,j as e}from"./index-FkIpNxUv.js";import{A as i}from"./ApplicationForm-DFJDKhOB.js";function p(){const[a,t]=o.useState("MACHINGA");return e.jsx(i,{type:"lipa",title:"Sajili Lipa HaloPesa",subtitle:"Chagua aina ya biashara yako kisha jaza fomu",category:a,onCategoryChange:t})}export{p as component};
