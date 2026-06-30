@@ -1,0 +1,1 @@
+import{j as a}from"./index-FkIpNxUv.js";import{A as o}from"./ApplicationForm-DFJDKhOB.js";const e=()=>a.jsx(o,{type:"voda",title:"Sajili Lipa ya Voda",subtitle:"Kwa namba za Voda ambazo hazijawezeshwa menu ya M-Pesa"});export{e as component};
